@@ -25,13 +25,13 @@ Make sure you have the needed [dependencies](#dependencies) before proceeding.
 For instructions and/or greater detail refer to the project [pdfs][pdfs]
 ### Functionality  
 
-### Usage  
+### -Usage  
 
-### Installation  
+### -Installation  
 
-### Testing  
+### -Testing  
 
-### Future Implementation  
+### -Future Implementation  
 
 ## Credits  
 
