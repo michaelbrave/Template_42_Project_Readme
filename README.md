@@ -4,11 +4,11 @@
 * [What Is This Project?](#what-is-this-project)
 * [Why Do This?](#why-do-this)
 * [What is 42?](#what-is-42)
-* [How Does It Work?](#how-does-it-work)
 * [Dependencies](#dependencies)
+* [How Does It Work?](#how-does-it-work)
 * [Credits](#credits)
 * [TimeStamp](#timestamp)
-* [42 folks](#42-folks)
+* [Disclaimer](#disclaimer)
 * [Keep In Touch](#keep-in-touch)
 
 ## What Is This Project?  
@@ -18,17 +18,19 @@
 ## What is 42?  
 [42][42] is a free, non profit, project-based, peer-to-peer learning based coding school. It originated in France and now has over 20 campuses all over the world. More information can be found [here][42] 
 
+## Dependencies  
+
 ## How Does It Work?  
 Make sure you have the needed [dependencies](#dependencies) before proceeding.
 For instructions and/or greater detail refer to the project [pdfs][pdfs]
-
-## Dependencies  
 
 ## Credits  
 
 ## TimeStamp  
 
-## 42 Folks  
+## Disclaimer
+
+This project was done for learning purposes only.  
 
 **Disclaimer for other 42 Students.**
 
