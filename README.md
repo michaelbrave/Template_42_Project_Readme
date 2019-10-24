@@ -16,11 +16,11 @@
 ## Why Do This?  
 
 ## What is 42?  
-[42][42] is non profit project-based peer-to-peer coding school. Originated in France now couting more than 20 campuses all over the world. More information can be found [here][42] 
+[42][42] is a free, non profit, project-based, peer-to-peer learning based coding school. It originated in France and now has over 20 campuses all over the world. More information can be found [here][42] 
 
 ## How Does It Work?  
-Please, make sure you have needed [dependencies](#dependencies) before you proceed
-For more detailed description refer to projects [pdfs][pdfs]
+Make sure you have the needed [dependencies](#dependencies) before proceeding.
+For instructions and/or greater detail refer to the project [pdfs][pdfs]
 
 ## Dependencies  
 
