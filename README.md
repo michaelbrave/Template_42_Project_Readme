@@ -2,31 +2,33 @@
 
 ### Table Of Contents
 * ["What Is This Project?"](#what-is-this-project)
-* [""](#)
-
-
+* ["Why Do This?"](#why-do-this)
+* ["What is 42?"](#what-is-42)
+* ["How Does It Work?"](#how-does-it-work)
 * [Dependencies](#dependencies)
 * [Credits](#credits)
+* ["TimeStamp"](#timestamp)
 * [42 folks](#42-folks)
+* ["Keep In Touch"](#keep-in-touch)
 
-## What Is This Project?
+## What Is This Project?  
 
-## Why Do This? (why)
+## Why Do This?  
 
-## What is 42? (where)
+## What is 42?  
 [42][42] is non profit project-based peer-to-peer coding school. Originated in France now couting more than 20 campuses all over the world. More information can be found [here][42] 
 
-## How Was It Done, How Does It Work? (how)
+## How Does It Work?  
 Please, make sure you have needed [dependencies](#dependencies) before you proceed
 For more detailed description refer to projects [pdfs][pdfs]
 
-## Dependencies
+## Dependencies  
 
-## Credits (who)
+## Credits  
 
-## TimeStamp (when)
+## TimeStamp  
 
-## 42 Folks
+## 42 Folks  
 
 **Disclaimer for other 42 Students.**
 
