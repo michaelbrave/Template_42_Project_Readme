@@ -11,9 +11,9 @@
 * [Disclaimer](#disclaimer)
 * [Keep In Touch](#keep-in-touch)
 
-## What Is This Project?  
+## What Is This Project? - Intro   
 
-## Why Do This - The Objective?  
+## Why Do This? - Objective   
 
 ## What is 42?  
 [42][42] is a free, non profit, project-based, peer-to-peer learning coding school. It originated in France and now has over 20 campuses all over the world. More information can be found [here][42] 
@@ -22,7 +22,8 @@
 
 ## How Does It Work?  
 Make sure you have the needed [dependencies](#dependencies) before proceeding.
-For instructions and/or greater detail refer to the project [pdfs][pdfs]
+For instructions and/or greater detail refer to the project [pdfs][pdfs]  
+  
 ### -Functionality  
 
 ### -Usage  
@@ -44,7 +45,6 @@ This project was done for learning purposes only.
 This is not kept up to date and I cannot guarantee that it will work on your future machines. You are welcome to use and learn from this as you want, but do not implement code that you do not understand. Copying is not the way. 
 
 ## Keep in Touch
-
 
 
 Enjoy!
