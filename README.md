@@ -1,15 +1,15 @@
 # Title
 
 ### Table Of Contents
-* ["What Is This Project?"](#what-is-this-project)
-* ["Why Do This?"](#why-do-this)
-* ["What is 42?"](#what-is-42)
-* ["How Does It Work?"](#how-does-it-work)
+* [What Is This Project?](#what-is-this-project)
+* [Why Do This?](#why-do-this)
+* [What is 42?](#what-is-42)
+* [How Does It Work?](#how-does-it-work)
 * [Dependencies](#dependencies)
 * [Credits](#credits)
-* ["TimeStamp"](#timestamp)
+* [TimeStamp](#timestamp)
 * [42 folks](#42-folks)
-* ["Keep In Touch"](#keep-in-touch)
+* [Keep In Touch](#keep-in-touch)
 
 ## What Is This Project?  
 
