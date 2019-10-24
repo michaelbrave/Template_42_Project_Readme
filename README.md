@@ -23,7 +23,7 @@
 ## How Does It Work?  
 Make sure you have the needed [dependencies](#dependencies) before proceeding.
 For instructions and/or greater detail refer to the project [pdfs][pdfs]
-### Functionality  
+### -Functionality  
 
 ### -Usage  
 
