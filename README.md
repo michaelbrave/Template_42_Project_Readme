@@ -7,7 +7,6 @@
 * [Dependencies](#dependencies)
 * [Functionality](#functionality)
 * [Credits](#credits)
-* [TimeStamp](#timestamp)
 * [Disclaimer](#disclaimer)
 * [Keep In Touch](#keep-in-touch)
 
