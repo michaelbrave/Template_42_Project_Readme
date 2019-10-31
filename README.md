@@ -5,43 +5,51 @@
 * [Objective](#objective)
 * [Instructions](#instructions)
 * [Dependencies](#dependencies)
-* [Functionality](#functionality)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Testing](#testing) 
+* [Future](#future)
+* [Mechanics](#mechanics)
 * [Credits](#credits)
 * [Disclaimer](#disclaimer)
 * [Keep In Touch](#keep-in-touch)
 
 ## Introduction  
 
-### -About This Project
+#### About This Project
 
-### -About Me
+#### About Me
 
-### -About 42  
+#### About 42  
 [42][42] is a free, non profit, project-based, peer-to-peer learning coding school. It originated in France and now has over 20 campuses all over the world. More information can be found [here][42] 
 
 ## Objective  
 
 ## Instructions
 Make sure you have the needed [dependencies](#dependencies) before proceeding.
-For instructions and/or greater detail refer to the project [pdfs][pdfs]  
+For instructions and/or greater detail refer to the project [pdf][pdf]  
 
 ## Dependencies  
+* A C language compiler most common would be GCC or Clang.
+* These were written to run on Unix based systems, it would likely work on a windows machine too but is currently untested. 
 
-## Functionality  
+## Installation 
 
-### -Installation 
+## Usage  
 
-### -Usage  
+## Testing  
 
-### -Testing  
+## Future 
 
-### -Future Implementation  
+## Mechanics  
 
 ## Credits  
 
+Some frameworks and libraries that were helpful with testing.   
+
 ## Disclaimer
 
-This project was done for learning purposes only.  
+This project was done for learning purposes only.
 
 ### Warning For 42 Students
 
@@ -49,8 +57,9 @@ This is not kept up to date and I cannot guarantee that it will work on your fut
 
 ## Keep in Touch
 
+You can find me on:
 
 Enjoy!
 
 [42]: http://42.us.org "42 USA"
-[pdfs]:  "Pdfs"
+[pdf]:  "Pdf"
